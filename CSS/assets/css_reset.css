@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* border: 0; */
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  background: rgb(212,30,24);
+  background: linear-gradient(90deg, rgba(212,30,24,1) 0%, rgba(121,9,115,1) 50%, rgba(0,151,255,1) 100%);
+	line-height: 1.5;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+img {
+  width: 100%;
+}
